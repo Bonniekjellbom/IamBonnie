@@ -1,0 +1,190 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #C3C1C7;
+  border-width: 5px;
+  width: 3rem;
+margin: 70px auto 10px auto;
+}
+
+h1 {
+  margin-top: 90px;
+font-family: 'Indie Flower', cursive;
+font-size: 400%;
+margin-bottom: 15px;
+color: #6938A1;
+
+
+}
+
+h2 {
+font-family: 'Raleway', sans-serif;
+font-size: 2.5rem;
+color: #8543D0;
+text-align: center;
+margin: 50px;
+
+
+}
+
+h3{
+font-family: 'Raleway', sans-serif;
+color: #7437B9;
+
+}
+
+p {
+  line-height: 2;
+}
+
+a {
+
+color:#7437B9;
+font-family: 'Merriweather', serif;
+margin: 10px 20px;
+text-decoration: none;
+
+}
+a:hover {
+  color: #EAF6F6;
+}
+
+.intro {
+
+  width: 40%;
+  margin:auto;
+}
+
+.top-container {
+  background-color: lavender;
+  margin-bottom: 50px;
+
+}
+
+
+.skills {
+  width: 70%;
+margin:auto;
+margin-top: 2px;
+margin-bottom: 100px;
+text-align: left;
+
+
+}
+.skills-row {
+  width: 70%;
+margin: 100px auto 100px auto;
+
+}
+
+.ED { text-align: center;
+
+}
+
+.contact-me{
+  text-align: center;
+}
+
+.btn {
+  background: #B49CDF;
+  background-image: -webkit-linear-gradient(top, #B49CDF, lavender);
+  background-image: -moz-linear-gradient(top, #B49CDF, lavender);
+  background-image: -ms-linear-gradient(top, #B49CDF, lavender);
+  background-image: -o-linear-gradient(top, #B49CDF, lavender);
+  background-image: linear-gradient(to bottom, #B49CDF, lavender);
+  background-image: -webkit-gradient(to top, #B49CDF, lavender);
+
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 12px;
+  font-family: 'Merriweather', serif;
+  color: #3D2698;
+  font-size: 16px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin: 30px;
+}
+
+.btn:hover {
+  background: lavender;
+  background-image: -webkit-linear-gradient(top, lavender, lavender);
+  background-image: -moz-linear-gradient(top, lavender, lavender);
+  background-image: -ms-linear-gradient(top, lavender, lavender);
+  background-image: -o-linear-gradient(top, lavender, lavender);
+  background-image: linear-gradient(to bottom, lavender, lavender);
+  background-image: -webkit-gradient(to top, #B49CDF, lavender);
+  text-decoration: none;
+}
+
+.bottom-container {
+background-color: #B49CDF;
+padding-bottom: 5px;
+padding-top: 30px;
+}
+
+
+.copywright {
+color: #EAF6F6;
+font-size: 0.75rem;
+padding-top: 25px;
+
+}
+
+
+.top-cloud {
+  position: relative;
+  top: 90px;
+  left: 380px;
+}
+
+
+.bottom-cloud {
+  position: absolute;
+  top: 270px;
+  left: 150px;
+}
+
+.computer {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.island {
+  width:25%;
+float: right;
+margin-left: 30px;
+}
+
+.Profilimg {
+width: 15%;
+border-radius: 50%
+
+}
+
+.message {
+
+padding-top: 30px;
+
+}
+
+.yourName {
+
+  margin: 10px;
+}
+
+.yourEmail {
+  margin: 10px;
+}
+
+.yourMessage {
+    margin: 10px;
+}
